@@ -14,3 +14,4 @@
 %   nav                    - simplified folder navigation function with shortcuts.
 %   optparse               - optional arguments parsing with default values. "name=value" language substitute.
 %   pkworkspace            - packages a MATLAB workspace into a struct (helpful for debugging hard-to-catch errors.)
+%   fconf                  - read/write from a config file that's used globally (similar to a preference file.)
